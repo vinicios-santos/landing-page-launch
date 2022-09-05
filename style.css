@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px
+}
+.topContainer{
+    width: 100%;
+    background-color: #7209b7;
+    height: 400px;
+}
+svg{
+    margin-top: -400px;
+}
+.botContainer{
+    width: 100%;
+    background-color: #3a0ca3;
+    height: 257px;
+}
